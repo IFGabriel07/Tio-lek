@@ -1,0 +1,56 @@
+.body{
+    background-color: #05261E;
+    height: 100vh;
+    
+
+}
+.logo{
+width: 400px;
+padding: 20px;
+}
+
+.inicio{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+ 
+}
+.cor{
+    color: #C5DBD6;
+    font-size:xx-large;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+
+}
+
+.botoes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding-top: 150px;
+    gap: 30px;
+}
+
+.botao{
+   background-color: #FFD242;
+   width: 281px;
+   height: 60px;
+
+   border-radius: 10px;
+   font-size: 30px;
+}
+
+.botaoVoltar{
+    padding-top: 260px;
+}
+
+.voltar{
+    color: #FFD242;
+    font-size: 18px ;
+}
